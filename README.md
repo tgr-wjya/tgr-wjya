@@ -29,11 +29,11 @@ public class TechStack {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coraa-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgr-wjya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coraa-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tgr-wjya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Coraa-12&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tgr-wjya&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
 
 </div>
 
