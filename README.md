@@ -1,44 +1,84 @@
-# Anita Masses
+# Hi, I'm Tegar 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Coraa-12)
+**Java Backend Developer** | Computer Science Student | Tangerang, Indonesia
 
-### 🛠️ Tech Stack
+Building scalable backend systems with Java & Spring Boot. Focused on clean code, test automation, and DevOps practices.
 
-```python
-tech_stack = {
-    'Languages': ['Python', 'Java', 'Kotlin'],
-    'Web Dev': ['HTML', 'CSS'],
-    'Tools': ['Git', 'GitHub'],
-    'Learning': ['Backend Development', 'Test Automation']
+[![Portfolio](https://img.shields.io/badge/Portfolio-70a5fd?style=flat-square&logo=google-chrome&logoColor=white)](https://coraa-12.github.io/my-portfolio-site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tegar-wijaya-kusuma-591a881b9/)
+[![Email](https://img.shields.io/badge/Email-38bdae?style=flat-square&logo=gmail&logoColor=white)](mailto:tgr.wjya.queue.top126@pm.me)
+
+---
+
+## 🔧 Tech Stack
+
+```java
+public class TechStack {
+    String[] languages = {"Java", "Python", "Kotlin", "SQL"};
+    String[] backend = {"Spring Boot", "Spring MVC", "Spring Data JPA", "Hibernate"};
+    String[] testing = {"JUnit 5", "Mockito", "Pytest", "Test Automation"};
+    String[] databases = {"PostgreSQL", "MySQL", "MongoDB"};
+    String[] devOps = {"Git", "Docker", "GitHub Actions", "Maven", "Gradle"};
+    String[] learning = {"Microservices", "Spring Security", "Kubernetes", "Redis"};
 }
 ```
 
-### 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coraa-12&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coraa-12&layout=compact&theme=dracula)
+## 📊 GitHub Activity
 
-### 🎯 Featured Projects
+<div align="center">
 
-#### [HydroBuddy]
-- Built with Python
-- HydroBuddy is a simple hydration reminder application designed to help you stay hydrated by sending notifications at regular intervals. It logs each reminder to a file and plays a sound to alert you, ensuring you never forget to drink water throughout the day.
-- Features: Test automation
-- [View Project](https://github.com/Coraa-12/HydroBuddy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coraa-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-### 📘 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Title of your technical blog post]
-- [Another technical article]
-<!-- BLOG-POST-LIST:END -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coraa-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
-### 💻 Open Source Contributions
-- [Repository Name]: Description of your contribution
-- [Another Repository]: Brief description of what you contributed
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Coraa-12&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
 
-### 📫 Get in Touch
-- For collaborations: [tgr.wjya.queue.top126@pm.me]
-- Technical discussions: Create an [issue](https://github.com/Coraa-12/Coraa-12/issues)
+</div>
 
 ---
-![](https://komarev.com/ghpvc/?username=Coraa-12&color=blue)
+
+## 🚀 Featured Projects
+
+### [Simple Flask API](https://github.com/Coraa-12/simple-flask-api)
+RESTful API with Docker containerization, Pytest automation, and CI/CD pipeline using GitHub Actions.
+`Python` `Flask` `Docker` `Pytest` `GitHub Actions`
+
+### [Book Scraper](https://github.com/Coraa-12/bookscraper)
+Web scraper built with Scrapy to extract and store book data in MongoDB with data validation.
+`Python` `Scrapy` `MongoDB` `Pymongo`
+
+### [HydroBuddy](https://github.com/Coraa-12/HydroBuddy)
+Desktop hydration reminder with scheduled notifications, audio alerts, and comprehensive test automation.
+`Python` `Test Automation` `Notifications`
+
+> 🔨 **Currently working on:** Java Spring Boot projects with PostgreSQL, JWT authentication, and JUnit testing
+
+---
+
+## 💼 Currently
+
+- 🎓 Computer Science student focusing on backend development
+- 🌱 Learning microservices architecture with Spring Boot
+- 🔍 Seeking **Java Backend Developer** opportunities
+- ⚡ Exploring DevOps practices with Docker and Kubernetes
+
+---
+
+## 📫 Let's Connect
+
+Looking for collaboration or want to chat about Java, backend architecture, or open source?
+
+**Email:** [tgr.wjya.queue.top126@pm.me](mailto:tgr.wjya.queue.top126@pm.me)
+**Issues:** Open an [issue](https://github.com/Coraa-12/Coraa-12/issues) for technical discussions
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Coraa-12&color=70a5fd&style=flat-square)
+
+*Building one commit at a time* ☕
+
+</div>
