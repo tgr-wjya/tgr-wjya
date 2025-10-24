@@ -4,7 +4,7 @@
 
 Building scalable backend systems with Java & Spring Boot. Focused on clean code, test automation, and DevOps practices.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-70a5fd?style=flat-square&logo=google-chrome&logoColor=white)](https://coraa-12.github.io/my-portfolio-site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-70a5fd?style=flat-square&logo=google-chrome&logoColor=white)](https://tgr-wjya.github.io/my-portfolio-site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tegar-wijaya-kusuma-591a881b9/)
 [![Email](https://img.shields.io/badge/Email-38bdae?style=flat-square&logo=gmail&logoColor=white)](mailto:tgr.wjya.queue.top126@pm.me)
 
@@ -71,7 +71,7 @@ Desktop hydration reminder with scheduled notifications, audio alerts, and compr
 Looking for collaboration or want to chat about Java, backend architecture, or open source?
 
 **Email:** [tgr.wjya.queue.top126@pm.me](mailto:tgr.wjya.queue.top126@pm.me)
-**Issues:** Open an [issue](https://github.com/Coraa-12/Coraa-12/issues) for technical discussions
+**Issues:** Open an [issue](https://github.com/tgr-wjya/tgr-wjya/issues) for technical discussions
 
 ---
 
