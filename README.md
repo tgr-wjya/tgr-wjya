@@ -1,10 +1,11 @@
 # Hi, I'm Tegar 👋
 
-**Java Backend Developer** | Computer Science Student | Tangerang, Indonesia
+**Java Backend Engineer** | **Creative Writer** | **JRPG Enthusiast**  
+Computer Science Student | Tangerang, Indonesia
 
-Building scalable backend systems with Java & Spring Boot. Focused on clean code, test automation, and DevOps practices.
+Building scalable backend systems with Java & Spring Boot while crafting dystopian narratives and conquering JRPGs on Merciless difficulty.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-70a5fd?style=flat-square&logo=google-chrome&logoColor=white)](https://tgr-wjya.github.io/my-portfolio-site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-70a5fd?style=flat-square&logo=google-chrome&logoColor=white)](https://tgr-wjya.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tegar-wijaya-kusuma-591a881b9/)
 [![Email](https://img.shields.io/badge/Email-38bdae?style=flat-square&logo=gmail&logoColor=white)](mailto:tgr.wjya.queue.top126@pm.me)
 
@@ -14,14 +15,37 @@ Building scalable backend systems with Java & Spring Boot. Focused on clean code
 
 ```java
 public class TechStack {
-    String[] languages = {"Java", "Python", "Kotlin", "SQL"};
-    String[] backend = {"Spring Boot", "Spring MVC", "Spring Data JPA", "Hibernate"};
-    String[] testing = {"JUnit 5", "Mockito", "Pytest", "Test Automation"};
-    String[] databases = {"PostgreSQL", "MySQL", "MongoDB"};
+    String[] languages = {"Java 21", "Python", "Kotlin", "TypeScript", "SQL"};
+    String[] backend = {"Spring Boot 3", "Spring MVC", "Spring Data JPA", "Hibernate"};
+    String[] testing = {"JUnit 5", "Mockito", "TestContainers", "Pytest"};
+    String[] databases = {"PostgreSQL", "MySQL", "Redis", "MongoDB"};
     String[] devOps = {"Git", "Docker", "GitHub Actions", "Maven", "Gradle"};
-    String[] learning = {"Microservices", "Spring Security", "Kubernetes", "Redis"};
+    String[] frontend = {"JavaFX", "Next.js", "React", "Tailwind CSS"};
+    String[] exploring = {"Microservices", "Spring Security", "Machine Learning Integration"};
 }
 ```
+
+---
+
+## 🚀 Featured Projects
+
+### [HydroBuddy](https://github.com/tgr-wjya/hydro-buddy2) 🚧 40% Complete
+Desktop hydration reminder with scheduled notifications and audio alerts. Built with **Java 21** and **JavaFX**.  
+`Java 21` `JavaFX` `Scheduled Tasks` `Desktop App`
+
+### [Distributed Task Scheduler](https://github.com/tgr-wjya/distributed-task-scheduler) 🚧 15% Complete
+Scalable task scheduling system with **Redis** for distributed locking and priority queues. Built with **Spring Boot 3**.  
+`Spring Boot 3` `Redis` `Distributed Systems` `Concurrent Processing`
+
+### [Opti-Gear](https://github.com/tgr-wjya/opti-gear) 🚧 10% Complete
+**Narrative-driven ML project** - Combat simulator that uses machine learning to optimize equipment loadouts in a custom fantasy world. Multi-language architecture:
+- **Java** - Combat simulation engine with world-building lore
+- **Python** - ML pipeline for gear optimization
+- **Spring Boot** - REST API for serving recommendations
+
+`Java` `Python ML` `Spring Boot` `World-Building` `Game Theory`
+
+> 💡 **Design Philosophy:** Letting narrative drive technical architecture - every class, element, and combat mechanic exists because of world lore, not arbitrary numbers.
 
 ---
 
@@ -39,46 +63,64 @@ public class TechStack {
 
 ---
 
-## 🚀 Featured Projects
+## 🎮 Beyond Code
 
-### [Simple Flask API](https://github.com/Coraa-12/simple-flask-api)
-RESTful API with Docker containerization, Pytest automation, and CI/CD pipeline using GitHub Actions.
-`Python` `Flask` `Docker` `Pytest` `GitHub Actions`
+### Gaming Achievements
+- 🏆 **Persona 5 Royal** - Merciless difficulty completion
+- ⚔️ **Octopath Traveler** - Defeated Galdera (True Final Boss)
+- 🌟 **Shin Megami Tensei V** - Completed multiple endings
+- 🗡️ **Octopath Traveler II** - Currently conquering
 
-### [Book Scraper](https://github.com/Coraa-12/bookscraper)
-Web scraper built with Scrapy to extract and store book data in MongoDB with data validation.
-`Python` `Scrapy` `MongoDB` `Pymongo`
+### Creative Writing
+- 📖 Crafting dystopian fiction exploring societal collapse
+- 🌍 World-building a fictional country with complete political/cultural systems
+- ✍️ Applying narrative design principles to software architecture
 
-### [HydroBuddy](https://github.com/Coraa-12/HydroBuddy)
-Desktop hydration reminder with scheduled notifications, audio alerts, and comprehensive test automation.
-`Python` `Test Automation` `Notifications`
-
-> 🔨 **Currently working on:** Java Spring Boot projects with PostgreSQL, JWT authentication, and JUnit testing
+> **Why this matters:** My writing background shapes how I approach system design - every component should have a clear "narrative" (purpose), and architecture should tell a coherent story.
 
 ---
 
 ## 💼 Currently
 
-- 🎓 Computer Science student focusing on backend development
-- 🌱 Learning microservices architecture with Spring Boot
-- 🔍 Seeking **Java Backend Developer** opportunities
-- ⚡ Exploring DevOps practices with Docker and Kubernetes
+- 🎓 Computer Science student specializing in backend systems
+- 🔨 Building **Opti-Gear** - ML-powered combat optimizer with narrative-driven design
+- 🌱 Exploring **Spring Boot 3**, **Redis**, and **Machine Learning** integration patterns
+- 🔍 Seeking **Java Backend Developer** opportunities where I can bring interdisciplinary thinking
+- ⚡ Believer in **Domain-Driven Design** and **Test-Driven Development**
+
+---
+
+## 🧠 Engineering Philosophy
+
+```java
+/**
+ * My approach to backend engineering:
+ * 
+ * 1. SYSTEM DESIGN FIRST - Architecture before implementation
+ * 2. TESTS DRIVE DEVELOPMENT - Red-Green-Refactor, always
+ * 3. DOMAIN MODELING MATTERS - Code should reflect real-world logic
+ * 4. NARRATIVE-DRIVEN DESIGN - Every component should have clear purpose
+ * 
+ * Like defeating Galdera - you need strategy, not just brute force.
+ */
+```
 
 ---
 
 ## 📫 Let's Connect
 
-Looking for collaboration or want to chat about Java, backend architecture, or open source?
+Interested in discussing **backend architecture**, **narrative-driven design**, or **JRPG strategies**?
 
-**Email:** [tgr.wjya.queue.top126@pm.me](mailto:tgr.wjya.queue.top126@pm.me)
+**Portfolio:** [tgr-wjya.github.io](https://tgr-wjya.github.io/)  
+**Email:** [tgr.wjya.queue.top126@pm.me](mailto:tgr.wjya.queue.top126@pm.me)  
 **Issues:** Open an [issue](https://github.com/tgr-wjya/tgr-wjya/issues) for technical discussions
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Coraa-12&color=70a5fd&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=tgr-wjya&color=70a5fd&style=flat-square)
 
-*Building one commit at a time* ☕
+*"Building systems one commit at a time, crafting worlds one story at a time"* ☕✨
 
 </div>
