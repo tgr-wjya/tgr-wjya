@@ -22,7 +22,7 @@ currently trying to figure out cloud architecture without breaking my student cr
 
 ## find me
 
-[portfolio](https://tgr-wjya.github.io) · [linkedin](https://www.linkedin.com/in/tegar-wijaya-kusuma-591a881b9) · [email](mailto:tgr.wjya.queue.top126@pm.me) · [instagram]([https://www.linkedin.com/in/tegar-wijaya-kusuma-591a881b9](https://www.instagram.com/tgr.wjya) · [steam](https://steamcommunity.com/profiles/76561198880565969/) · [x](https://x.com/TgrWjya)
+[portfolio](https://tgr-wjya.github.io) · [linkedin](https://www.linkedin.com/in/tegar-wijaya-kusuma-591a881b9) · [email](mailto:tgr.wjya.queue.top126@pm.me) · [instagram](https://www.instagram.com/tgr.wjya) · [steam](https://steamcommunity.com/profiles/76561198880565969/) · [x](https://x.com/TgrWjya)
 
 ---
 
