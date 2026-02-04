@@ -1,18 +1,21 @@
 # tegar wijaya kusuma
 
-backend engineer who occasionally makes things work
+backend engineer building foundational systems
 
 ## what i'm doing
 
-building web stuff with javascript, typescript, and python. learning java spring boot because apparently that's still a thing people use.
+building web applications with javascript, typescript, and python. currently learning java spring boot for enterprise-scale systems.
 
-currently trying to figure out cloud architecture without breaking my student credits.
+exploring cloud architecture on azure, gcp, aws and cloudflare.
 
-## recent projects
+## core projects
+*built from scratch without ai assistance*
 
-* [cli calculator](https://github.com/tgr-wjya/cli-calculator-js) — basic math operations, still has bugs
-* [weather cli](https://github.com/tgr-wjya/weather-cli) — checks weather because opening a browser is too much work
-* [expense tracker](https://github.com/tgr-wjya/Expense-Tracker) — practice project, don't actually use this
+* [cli calculator](https://github.com/tgr-wjya/cli-calculator-js) — javascript-based calculator handling basic arithmetic operations
+* [weather cli](https://github.com/tgr-wjya/weather-cli) — terminal weather client using external api integration
+* [expense tracker](https://github.com/tgr-wjya/Expense-Tracker) — personal finance tracker, learning project for data persistence
+
+## production work
 
 ## stack
 
@@ -21,8 +24,7 @@ currently trying to figure out cloud architecture without breaking my student cr
 **cloud:** docker · azure · gcp · vercel · cloudflare
 
 ## find me
-
-[portfolio](https://tgr-wjya.github.io) · [linkedin](https://www.linkedin.com/in/tegar-wijaya-kusuma-591a881b9) · [email](mailto:tgr.wjya.queue.top126@pm.me) · [instagram](https://www.instagram.com/tgr.wjya) · [steam](https://steamcommunity.com/profiles/76561198880565969/) · [x](https://x.com/TgrWjya)
+[portfolio](https://tgr-wjya.github.io) · [linkedin](https://linkedin.com/in/tegar-wijaya-kusuma-591a881b9) · [email](mailto:tgr.wjya.queue.top126@pm.me)
 
 ---
 
