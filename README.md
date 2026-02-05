@@ -16,6 +16,7 @@ exploring cloud architecture on azure, gcp, aws and cloudflare.
 * [expense tracker](https://github.com/tgr-wjya/Expense-Tracker) — personal finance tracker, learning project for data persistence
 
 ## production work
+* [vpn-portfolio](https://github.com/tgr-wjya/vpn-portfolio) — automated wireguard infrastructure on aws via terraform. production-grade, fully automated.
 
 ## stack
 
