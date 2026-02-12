@@ -14,6 +14,8 @@ exploring cloud architecture on azure, gcp, aws and cloudflare.
 * [cli calculator](https://github.com/tgr-wjya/cli-calculator-js) — javascript-based calculator handling basic arithmetic operations
 * [weather cli](https://github.com/tgr-wjya/weather-cli) — terminal weather client using external api integration
 * [expense tracker](https://github.com/tgr-wjya/Expense-Tracker) — personal finance tracker, learning project for data persistence
+* [api-type-safeguard](https://github.com/tgr-wjya/api-type-safeguard) - a typescript interface challenge using spotify json api and structure it
+* [express-expense-tracker-api](https://github.com/tgr-wjya/expense-tracker-api) - express.js expense tracker using api for backend learning
 
 ## production work
 * [vpn-portfolio](https://github.com/tgr-wjya/vpn-portfolio) — automated wireguard infrastructure on aws via terraform. production-grade, fully automated.
