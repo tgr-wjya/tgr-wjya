@@ -16,6 +16,7 @@ exploring cloud architecture on azure, gcp, aws and cloudflare.
 * [expense tracker](https://github.com/tgr-wjya/Expense-Tracker) — personal finance tracker, learning project for data persistence
 * [api-type-safeguard](https://github.com/tgr-wjya/api-type-safeguard) - a typescript interface challenge using spotify json api and structure it
 * [express-expense-tracker-api](https://github.com/tgr-wjya/expense-tracker-api) - express.js expense tracker using api for backend learning
+* [csv-parser](https://github.com/tgr-wjya/csv-parser) - my attempt at building my very own csv parser, very hardcoded
 
 ## production work
 * [vpn-portfolio](https://github.com/tgr-wjya/vpn-portfolio) — automated wireguard infrastructure on aws via terraform. production-grade, fully automated.
