@@ -4,7 +4,7 @@ backend engineer building foundational systems
 
 ## what i'm doing
 
-building web applications with javascript, typescript, and python. currently learning java spring boot for enterprise-scale systems.
+building web applications with javascript, typescript, and python. currently learning typescript framework.
 
 exploring cloud architecture on azure, gcp, aws and cloudflare.
 
@@ -18,7 +18,7 @@ exploring cloud architecture on azure, gcp, aws and cloudflare.
 * [express-expense-tracker-api](https://github.com/tgr-wjya/expense-tracker-api) - express.js expense tracker using api for backend learning
 * [csv-parser](https://github.com/tgr-wjya/csv-parser) - my attempt at building my very own csv parser, very hardcoded
 * [task-api-bun](https://github.com/tgr-wjya/task-api-bun) - a task api with 5 endpoint using bun http
-* [hono-task-api](https://github.com/tgr-wjya/hono-task-api) - task api but with hono instead
+* [hono-task-api](https://github.com/tgr-wjya/hono-task-api) - same task api but with hono instead
 
 ## production work
 * [vpn-portfolio](https://github.com/tgr-wjya/vpn-portfolio) — automated wireguard infrastructure on aws via terraform. production-grade, fully automated.
