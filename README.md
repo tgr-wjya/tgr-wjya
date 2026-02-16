@@ -26,7 +26,7 @@ exploring cloud architecture on azure, gcp, aws and cloudflare.
 ## stack
 
 **languages:** javascript · typescript · python · html · css  
-**runtime:** bun · node.js · deno
+**runtime:** bun · node.js · deno  
 **cloud:** docker · azure · gcp · vercel · cloudflare
 
 ## find me
