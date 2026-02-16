@@ -4,7 +4,7 @@ backend engineer building foundational systems
 
 ## what i'm doing
 
-building web applications with javascript, typescript, and python. currently learning typescript framework.
+building web applications with javascript and typescript. currently learning typescript framework.
 
 exploring cloud architecture on azure, gcp, aws and cloudflare.
 
