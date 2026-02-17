@@ -19,6 +19,7 @@ exploring cloud architecture on azure, gcp, aws and cloudflare.
 * [csv-parser](https://github.com/tgr-wjya/csv-parser) - my attempt at building my very own csv parser, very hardcoded
 * [task-api-bun](https://github.com/tgr-wjya/task-api-bun) - a task api with 5 endpoint using bun http
 * [hono-task-api](https://github.com/tgr-wjya/hono-task-api) - same task api but with hono instead
+* [elysia-task-api](https://github.com/tgr-wjya/elysia-task-api) - elysia restful task api 
 
 ## production work
 * [vpn-portfolio](https://github.com/tgr-wjya/vpn-portfolio) — automated wireguard infrastructure on aws via terraform. production-grade, fully automated.
