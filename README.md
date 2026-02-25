@@ -1,6 +1,6 @@
 # tegar wijaya kusuma
 
-backend engineer building foundational systems
+backend engineer building foundational systems, i love tools with smooth dx
 
 ## what i'm doing
 
@@ -17,9 +17,7 @@ exploring cloud architecture on azure, gcp, aws and cloudflare.
 * [api-type-safeguard](https://github.com/tgr-wjya/api-type-safeguard) - a typescript interface challenge using spotify json api and structure it
 * [express-expense-tracker-api](https://github.com/tgr-wjya/expense-tracker-api) - express.js expense tracker using api for backend learning
 * [csv-parser](https://github.com/tgr-wjya/csv-parser) - my attempt at building my very own csv parser, very hardcoded
-* [task-api-bun](https://github.com/tgr-wjya/task-api-bun) - a task api with 5 endpoint using bun http
-* [hono-task-api](https://github.com/tgr-wjya/hono-task-api) - same task api but with hono instead
-* [elysia-task-api](https://github.com/tgr-wjya/elysia-task-api) - elysia restful task api 
+* [elysia-mastery](https://github.com/tgr-wjya/elysia-mastery) — rest api fundamentals done properly. validation, swagger, file persistence, full crud, lifecycle hooks, and test runner using elysia + bun.
 
 ## production work
 * [vpn-portfolio](https://github.com/tgr-wjya/vpn-portfolio) — automated wireguard infrastructure on aws via terraform. production-grade, fully automated.
