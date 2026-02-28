@@ -1,36 +1,26 @@
 # tegar wijaya kusuma
-
-backend engineer building foundational systems, i love tools with smooth dx
+backend engineer. i pick tools for the dx, not the hype.
 
 ## what i'm doing
+building backends with typescript. currently: elysia + bun as my main stack.
+exploring cloud infrastructure through real projects.
 
-building web applications with javascript and typescript. currently learning typescript framework.
-
-exploring cloud architecture on azure, gcp, aws and cloudflare.
-
-## core projects
+## projects
 *built from scratch without ai assistance*
 
-* [cli calculator](https://github.com/tgr-wjya/cli-calculator-js) — javascript-based calculator handling basic arithmetic operations
-* [weather cli](https://github.com/tgr-wjya/weather-cli) — terminal weather client using external api integration
-* [expense tracker](https://github.com/tgr-wjya/Expense-Tracker) — personal finance tracker, learning project for data persistence
-* [api-type-safeguard](https://github.com/tgr-wjya/api-type-safeguard) - a typescript interface challenge using spotify json api and structure it
-* [express-expense-tracker-api](https://github.com/tgr-wjya/expense-tracker-api) - express.js expense tracker using api for backend learning
-* [csv-parser](https://github.com/tgr-wjya/csv-parser) - my attempt at building my very own csv parser, very hardcoded
-* [elysia-challenge](https://github.com/tgr-wjya/elysia-challenge) — rest api fundamentals done properly. validation, swagger, file persistence, full crud, lifecycle hooks, and test runner using elysia + bun.
-
-## production work
-* [vpn-portfolio](https://github.com/tgr-wjya/vpn-portfolio) — automated wireguard infrastructure on aws via terraform. production-grade, fully automated.
+- [elysia-challenge](https://github.com/tgr-wjya/elysia-challenge) — rest api done properly. crud, validation, swagger, file persistence, lifecycle hooks, test runner. 29hrs.
+- [cli calculator](https://github.com/tgr-wjya/cli-calculator-js) — my first ever js project. rawdogged it before i knew the theory.
+- [weather cli](https://github.com/tgr-wjya/weather-cli) — terminal weather client via openweather api. first typescript project.
 
 ## stack
-
-**languages:** javascript · typescript · python · html · css  
-**runtime:** bun · node.js · deno  
-**cloud:** docker · azure · gcp · vercel · cloudflare
+**languages:** javascript · typescript · python  
+**runtime:** bun · node.js · deno
+**frameworks:** elysia · hono  
+**cloud:** docker · cloudflare · aws · gcp  
+**learning next:** fastify · drizzle orm · better auth
 
 ## find me
 [portfolio](https://tgr-wjya.github.io) · [linkedin](https://linkedin.com/in/tegar-wijaya-kusuma-591a881b9) · [email](mailto:tgr.wjya.queue.top126@pm.me)
 
 ---
-
 made with ◉‿◉
