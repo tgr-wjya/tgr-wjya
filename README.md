@@ -14,10 +14,10 @@ exploring cloud infrastructure through real projects.
 
 ## stack
 **languages:** javascript · typescript · python  
-**runtime:** bun · node.js · deno
+**runtime:** bun · node.js · deno  
 **frameworks:** elysia · hono  
-**cloud:** docker · cloudflare · aws · gcp  
-**learning next:** fastify · drizzle orm · better auth
+**cloud:** docker · cloudflare · aws · gcp   
+**learning next:** fastify · drizzle orm · better auth  
 
 ## find me
 [portfolio](https://tgr-wjya.github.io) · [linkedin](https://linkedin.com/in/tegar-wijaya-kusuma-591a881b9) · [email](mailto:tgr.wjya.queue.top126@pm.me)
