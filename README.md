@@ -1,5 +1,5 @@
 # tegar wijaya kusuma
-backend engineer. i pick tools for the dx, not the hype.
+backend engineer. i pick tools for the dx
 
 ## what i'm doing
 building backends with typescript. currently: elysia + bun as my main stack.
