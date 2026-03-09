@@ -15,11 +15,10 @@ exploring cloud infrastructure through real projects.
 - [weather cli](https://github.com/tgr-wjya/weather-cli) — terminal weather client via openweather api. first typescript project.
 
 ## stack
-**languages:** javascript · typescript · python  
+**languages:** javascript · typescript   
 **runtime:** bun · node.js · deno  
 **frameworks:** elysia · hono  
-**cloud:** docker · cloudflare · aws · gcp   
-**learning next:** fastify · drizzle orm · better auth  
+**learning next:** docker · bun:sqlite · drizzle orm  
 
 ## find me
 [portfolio](https://tgr-wjya.github.io) · [linkedin](https://linkedin.com/in/tegar-wijaya-kusuma-591a881b9) · [email](mailto:tgr.wjya.queue.top126@pm.me)
