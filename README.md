@@ -1,24 +1,25 @@
 # tegar wijaya kusuma
-backend engineer. i pick tools for the dx
-
-## what i'm doing
-building backends with typescript. currently: elysia + bun as my main stack.
-exploring cloud infrastructure through real projects.
+backend engineer. i love tools with smooth dx
 
 ## projects
-*built from scratch without ai assistance*
 
-- [elysia-challenge](https://github.com/tgr-wjya/elysia-challenge) — rest api done properly. crud, validation, swagger, file persistence, lifecycle hooks, test runner. 29hrs.
-- [guestbook-api](https://github.com/tgr-wjya/guestbook-api) - in-memory rest api deployed on railway. rate limiting, cors, lifecycle hooks, 100% test coverage.
-- [bun-sqlite-mastery](https://github.com/tgr-wjya/bun-sqlite-mastery) - raw sqlite from scratch. schema, seeding, crud, transactions, no orm
-- [cli calculator](https://github.com/tgr-wjya/cli-calculator-js) — my first ever js project. rawdogged it before i knew the theory.
-- [weather cli](https://github.com/tgr-wjya/weather-cli) — terminal weather client via openweather api. first typescript project.
+- [docker-mastery2](https://github.com/tgr-wjya/docker-mastery2) — minimal status api. the real work: 
+dockerfile, azure container registry, container apps, and a full github actions CI/CD pipeline. written from scratch.
+- [guestbook-api](https://github.com/tgr-wjya/guestbook-api) — in-memory rest api. rate limiting, 
+custom error classes, lifecycle hooks, ~93% test coverage, circleci + sonarcloud.
+- [elysia-challenge](https://github.com/tgr-wjya/elysia-challenge) — rest api fundamentals. crud, 
+validation, file persistence, lifecycle hooks, 100% test coverage. 29hrs.
+- [bun-sqlite-mastery](https://github.com/tgr-wjya/bun-sqlite-mastery) — raw sqlite. schema, 
+seeding, crud, transactions. no orm.
+- [kaomoji-api](https://github.com/tgr-wjya/kaomoji-api) — interactive kaomoji api with bun & elysia
+- [weather-cli](https://github.com/tgr-wjya/weather-cli) — first typescript project. openweather api.
 
 ## stack
-**languages:** javascript · typescript   
-**runtime:** bun · node.js · deno  
+**languages:** typescript · javascript  
+**runtime:** bun · node.js  
 **frameworks:** elysia · hono  
-**learning next:** docker · bun:sqlite · drizzle orm  
+**infra:** docker · github actions · circleci · azure (acr + container apps) · cloudflare workers  
+**currently learning:** drizzle orm · auth
 
 ## find me
 [portfolio](https://tgr-wjya.github.io) · [linkedin](https://linkedin.com/in/tegar-wijaya-kusuma-591a881b9) · [email](mailto:tgr.wjya.queue.top126@pm.me)
