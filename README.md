@@ -3,7 +3,7 @@ backend engineer. i love tools with smooth dx
 
 ## projects
 
-- [docker-mastery2](https://github.com/tgr-wjya/docker-mastery2) — minimal status api. the real work: 
+- [status-api](https://github.com/tgr-wjya/docker-mastery2) — minimal status api, maximum infrastructure: 
 dockerfile, azure container registry, container apps, and a full github actions CI/CD pipeline. written from scratch.
 - [guestbook-api](https://github.com/tgr-wjya/guestbook-api) — in-memory rest api. rate limiting, 
 custom error classes, lifecycle hooks, ~93% test coverage, circleci + sonarcloud.
